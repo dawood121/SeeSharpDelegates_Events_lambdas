@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.exe
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.deps.json
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.runtimeconfig.json
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.pdb
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\refint\BasicDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.pdb
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\BasicDelegates\BasicDelegates\obj\Debug\net6.0\ref\BasicDelegates.dll
