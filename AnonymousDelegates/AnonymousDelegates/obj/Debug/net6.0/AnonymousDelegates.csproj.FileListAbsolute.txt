@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.exe
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.deps.json
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.runtimeconfig.json
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\bin\Debug\net6.0\AnonymousDelegates.pdb
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\refint\AnonymousDelegates.dll
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.pdb
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\AnonymousDelegates.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\LearningNetCore\Delegates_Events_Lamda\AnonymousDelegates\AnonymousDelegates\obj\Debug\net6.0\ref\AnonymousDelegates.dll
